@@ -1,0 +1,18 @@
+
+
+
++3.3V  1                28 +5V
++3.3V  2                27 +5V
+PB11A  3                26 PB9B
+PB11B  4                25 PB9A
+PB20C  5 SN       MISO  24 PB6D
+PB20D  6 MOSI     SCLK  23 PB6C
+PR5D   7          CS    22 PB4C
+PR5C   8                21 PL9B
+PT17D  9 DONE           20 PL9A
+PT15D 10 PROGRAMN PT10C 19 TDO
+PT15C 11 JTAGENB  PT10D 18 TDI
+PT12D 12 SDA      PT11C 17 TCK
+PT12C 13 SCL      PT11D 16 TMS
+GND   14                15 GND
+
